@@ -3,7 +3,9 @@
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
 ```
-$ My first method
+Create a GitBook organization,
+Sync it with the wotupset GitHub organization using our integration,
+Transfer the ownership of this book to this organization.
 ```
 
 
